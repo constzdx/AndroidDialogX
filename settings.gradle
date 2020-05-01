@@ -1,0 +1,3 @@
+rootProject.name='AndroidDialogX'
+include ':app'
+include ':library'
